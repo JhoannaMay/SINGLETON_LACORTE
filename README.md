@@ -1,4 +1,4 @@
-# Lab Assignment Centralized Queuing System for Pag-ibig Office
+# Centralized Queuing System for Pag-ibig Office
 
 The Pag-ibig office implements a centralized queuing system for three help desk stations. Individuals visiting the office obtain a queue number from this centralized system. Additionally, there's an online monitoring system that displays the current queued number in real-time for individuals monitoring the queue remotely.
 
@@ -11,6 +11,8 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here).
   UML Class Diagram
   Uploaded java codes for the solution.
-Upload your GitHub Solution link here.
+![LAB ASSIGNMENT SINGLETON PATTERN](https://github.com/user-attachments/assets/907c8164-633e-48b6-9d4c-61df5e9b403f)
+
+
 
  
